@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGF5K9Jqe1+TVG5Xn7r0KVAX1ZMmIAtdKRkSlYkRnHvfMziGYuClq/Rc8R5C/tsrKJfSrlaFLPSww2Ty96TBQw==",
+  "success": true,
+  "projectFilePath": "/home/evan/cs/findit/findit.csproj",
+  "expectedPackageFiles": [
+    "/home/evan/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
+    "/home/evan/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

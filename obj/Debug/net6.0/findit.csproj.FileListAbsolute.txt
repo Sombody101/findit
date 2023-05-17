@@ -1,0 +1,17 @@
+/home/evan/cs/findit/bin/Debug/net6.0/findit
+/home/evan/cs/findit/bin/Debug/net6.0/findit.deps.json
+/home/evan/cs/findit/bin/Debug/net6.0/findit.runtimeconfig.json
+/home/evan/cs/findit/bin/Debug/net6.0/findit.dll
+/home/evan/cs/findit/bin/Debug/net6.0/findit.pdb
+/home/evan/cs/findit/bin/Debug/net6.0/Spectre.Console.dll
+/home/evan/cs/findit/obj/Debug/net6.0/findit.csproj.AssemblyReference.cache
+/home/evan/cs/findit/obj/Debug/net6.0/findit.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/cs/findit/obj/Debug/net6.0/findit.AssemblyInfoInputs.cache
+/home/evan/cs/findit/obj/Debug/net6.0/findit.AssemblyInfo.cs
+/home/evan/cs/findit/obj/Debug/net6.0/findit.csproj.CoreCompileInputs.cache
+/home/evan/cs/findit/obj/Debug/net6.0/findit.csproj.CopyComplete
+/home/evan/cs/findit/obj/Debug/net6.0/findit.dll
+/home/evan/cs/findit/obj/Debug/net6.0/refint/findit.dll
+/home/evan/cs/findit/obj/Debug/net6.0/findit.pdb
+/home/evan/cs/findit/obj/Debug/net6.0/findit.genruntimeconfig.cache
+/home/evan/cs/findit/obj/Debug/net6.0/ref/findit.dll

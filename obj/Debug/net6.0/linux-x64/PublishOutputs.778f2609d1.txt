@@ -1,0 +1,2 @@
+/home/evan/cs/findit/bin/Debug/net6.0/linux-x64/publish/findit.pdb
+/home/evan/cs/findit/bin/Debug/net6.0/linux-x64/publish/findit
