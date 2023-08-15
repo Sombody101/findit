@@ -1,26 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/home/evan/cs/findit/findit.csproj": {}
+    "f:\\GitProjects\\findit\\findit.csproj": {}
   },
   "projects": {
-    "/home/evan/cs/findit/findit.csproj": {
+    "f:\\GitProjects\\findit\\findit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/evan/cs/findit/findit.csproj",
+        "projectUniqueName": "f:\\GitProjects\\findit\\findit.csproj",
         "projectName": "findit",
-        "projectPath": "/home/evan/cs/findit/findit.csproj",
-        "packagesPath": "/home/evan/.nuget/packages/",
-        "outputPath": "/home/evan/cs/findit/obj/",
+        "projectPath": "f:\\GitProjects\\findit\\findit.csproj",
+        "packagesPath": "C:\\Users\\evans\\.nuget\\packages\\",
+        "outputPath": "f:\\GitProjects\\findit\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/evan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\evans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -59,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/evan/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
